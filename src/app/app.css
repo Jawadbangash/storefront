@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .appHeader {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin: 0 5% 0 5%;
+  }
